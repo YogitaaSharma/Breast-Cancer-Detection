@@ -7,7 +7,7 @@ This repository contains code and resources for detecting invasive ductal carcin
 The dataset used for this project consists of 277,524 50x50 pixel RGB digital image patches. These patches were derived from 162 H&E-stained breast histopathology samples. The images are unlabeled, and the task is to identify patches that contain cells characteristic of invasive ductal carcinoma (labeled as "1").
 
 ## To access the dataset, please download it from Kaggle using the following link:
-https://www.kaggle.com/paultimothymooney/predicting-idc-in-breast-cancer-histology-images
+[https://www.kaggle.com/code/paultimothymooney/predict-idc-in-breast-cancer-histology-images/input]
 
 ## Repository Structure
 The repository has the following structure:
