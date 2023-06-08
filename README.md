@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection
 
-## Breast Cancer Detection
+## Introduction
 This repository contains code and resources for detecting invasive ductal carcinoma (IDC) in breast cancer histopathology images using deep learning Convolutional Neural Network Algorithm. The goal is to accurately identify and categorize breast cancer subtypes, specifically focusing on IDC, which is the most common form of breast cancer.
 
 ## Dataset
