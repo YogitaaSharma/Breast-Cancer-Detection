@@ -15,8 +15,6 @@ The repository has the following structure:
 - data/: This directory should contain the dataset downloaded from Kaggle.
 - notebooks/: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
 - models/: Saved trained models.
-- scripts/: Python scripts for data preprocessing, model training, and prediction.
-- utils/: Utility functions and helper modules.
 - README.md: This file, providing an overview of the project.
 
 ## Getting Started
