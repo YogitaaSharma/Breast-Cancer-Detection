@@ -4,7 +4,7 @@
 This repository contains code and resources for detecting invasive ductal carcinoma (IDC) in breast cancer histopathology images using deep learning Convolutional Neural Network Algorithm. The goal is to accurately identify and categorize breast cancer subtypes, specifically focusing on IDC, which is the most common form of breast cancer.
 
 ## Dataset
-The dataset used for this project consists of 277,524 50x50 pixel RGB digital image patches. These patches were derived from 162 H&E-stained breast histopathology samples. The images are unlabeled, and the task is to identify patches that contain cells characteristic of invasive ductal carcinoma (labeled as "1").
+The dataset used for this project consists of 277,524 50x50 pixel RGB digital image patches. These patches were derived from 162 H&E-stained breast histopathology samples. The images are labelled, and the task is to identify patches that contain cells characteristic of invasive ductal carcinoma (labelled as "1").
 
 ### To access the dataset, please download it from Kaggle using the following link:
 [https://www.kaggle.com/code/paultimothymooney/predict-idc-in-breast-cancer-histology-images/input]
